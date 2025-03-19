@@ -1,4 +1,4 @@
-package data_str;
+
 public class Additions {
     public static void main(String[] args) {
         int num1 = 5;
